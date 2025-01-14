@@ -63,7 +63,7 @@ dateparser==1.2.0
     # via archivebox (pyproject.toml)
 decorator==5.1.1
     # via ipython
-django==5.1.2
+django==5.1.4
     # via
     #   archivebox (pyproject.toml)
     #   bx-django-utils
